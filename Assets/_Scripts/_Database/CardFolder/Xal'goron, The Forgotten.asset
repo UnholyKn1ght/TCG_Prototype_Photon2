@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0440708d73ea8274da787d276e7a214f, type: 3}
+  m_Name: Xal'goron, The Forgotten
+  m_EditorClassIdentifier: 
+  cardName: Xal'goron, The Forgotten
+  HP: 25
+  maxHP: 25
+  AtkDmg: 15
+  cardCost: 10
+  cardText: 'Hellfire
+
+'
+  quickPlay: 0
+  elementType: 0
+  cardType: 0
+  cardImage: {fileID: 21300000, guid: eda010e51f3dc404e8be3f900bb0717a, type: 3}
+  elementIcon: {fileID: 0}
+  cardModData1: {fileID: 11400000, guid: 4176c1151582ba546be6b7db617b163a, type: 2}
+  cardModData2: {fileID: 0}
+  eqiupmentText: 
+  increaseMaxHealth: 0
+  healthHealed: 0
+  increaseDamage: 0
+  keyword1: {fileID: 0}
+  keyword2: {fileID: 0}
+  spellText: 
+  burnDamage: 0
+  healthToHeal: 0
+  cardsToDiscard: 0
+  cardsToDraw: 0
+  tokenToSpawn: {fileID: 0}
+  inDeck: 0

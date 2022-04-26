@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2bb136e03b73d7a43953375356632ee8, type: 3}
+  m_Name: Overpower
+  m_EditorClassIdentifier: 
+  keywordName: Overpower
+  keywordDescription: If Enemy Dies After Attack, Deal Direct Damage To Enemy HP.
+  elementType: 0
+  poisonToStack: 0
+  bleedToStack: 0
+  quickAttack: 0
+  quickPlay: 0
+  overpower: 1
+  leech: 0
+  revive: 0

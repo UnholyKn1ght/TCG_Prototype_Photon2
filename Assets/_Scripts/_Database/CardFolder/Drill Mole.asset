@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0440708d73ea8274da787d276e7a214f, type: 3}
+  m_Name: Drill Mole
+  m_EditorClassIdentifier: 
+  cardName: Drill Mole
+  HP: 7
+  maxHP: 7
+  AtkDmg: 4
+  cardCost: 5
+  cardText: 
+  quickPlay: 0
+  elementType: 2
+  cardType: 0
+  cardImage: {fileID: 21300000, guid: 256c403ed304c436fbf61ad7c5b60be6, type: 3}
+  elementIcon: {fileID: 0}
+  cardModData1: {fileID: 11400000, guid: ab1fed0d9c5901747b6588d78fb978c4, type: 2}
+  cardModData2: {fileID: 11400000, guid: 7495eff18c5146a4e813a51cf3f1340f, type: 2}
+  eqiupmentText: 
+  increaseMaxHealth: 0
+  healthHealed: 0
+  increaseDamage: 0
+  keyword1: {fileID: 0}
+  keyword2: {fileID: 0}
+  spellText: 
+  burnDamage: 0
+  healthToHeal: 0
+  cardsToDiscard: 0
+  cardsToDraw: 0
+  tokenToSpawn: {fileID: 0}
+  inDeck: 0

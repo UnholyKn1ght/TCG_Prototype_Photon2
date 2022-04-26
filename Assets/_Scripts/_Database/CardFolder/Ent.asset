@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0440708d73ea8274da787d276e7a214f, type: 3}
+  m_Name: Ent
+  m_EditorClassIdentifier: 
+  cardName: Ent
+  HP: 5
+  maxHP: 5
+  AtkDmg: 2
+  cardCost: 3
+  cardText: 
+  quickPlay: 0
+  elementType: 2
+  cardType: 0
+  cardImage: {fileID: 21300000, guid: f9cdee73530ac4ca8a83907cd4c9d484, type: 3}
+  elementIcon: {fileID: 0}
+  cardModData1: {fileID: 11400000, guid: ab1fed0d9c5901747b6588d78fb978c4, type: 2}
+  cardModData2: {fileID: 0}
+  eqiupmentText: 
+  increaseMaxHealth: 0
+  healthHealed: 0
+  increaseDamage: 0
+  keyword1: {fileID: 0}
+  keyword2: {fileID: 0}
+  spellText: 
+  burnDamage: 0
+  healthToHeal: 0
+  cardsToDiscard: 0
+  cardsToDraw: 0
+  tokenToSpawn: {fileID: 0}
+  inDeck: 0

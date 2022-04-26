@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0440708d73ea8274da787d276e7a214f, type: 3}
+  m_Name: Xal'goron, The Fallen
+  m_EditorClassIdentifier: 
+  cardName: Xal'goron, The Fallen
+  HP: 50
+  maxHP: 50
+  AtkDmg: 30
+  cardCost: 10
+  cardText: Inferno, Can Only Be Played If Xal'Goron, The Forgotten Has Died This
+    Round.
+  quickPlay: 0
+  elementType: 0
+  cardType: 0
+  cardImage: {fileID: 21300000, guid: 5864be5b92aec704f9f12c5a98a351e4, type: 3}
+  elementIcon: {fileID: 0}
+  cardModData1: {fileID: 11400000, guid: 8e8d12ca6006e874ca539a1fdb120d49, type: 2}
+  cardModData2: {fileID: 0}
+  eqiupmentText: 
+  increaseMaxHealth: 0
+  healthHealed: 0
+  increaseDamage: 0
+  keyword1: {fileID: 0}
+  keyword2: {fileID: 0}
+  spellText: 
+  burnDamage: 0
+  healthToHeal: 0
+  cardsToDiscard: 0
+  cardsToDraw: 0
+  tokenToSpawn: {fileID: 0}
+  inDeck: 0
